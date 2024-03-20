@@ -1,2 +1,7 @@
 # Roblox-FPS-Unlocker
-uncaps your roblox fps from 60 to basically unlimited
+how2use for not so smart people: <br>
+download repo<br>
+extract it<br>
+run fps.bat<br>
+done!<br>
+(rerun fps.bat once every time roblox updates)
